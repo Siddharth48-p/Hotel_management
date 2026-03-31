@@ -1,0 +1,4 @@
+hotel\model\Room.class
+hotel\HotelManagementApp.class
+hotel\util\FileManager.class
+hotel\model\Booking.class
